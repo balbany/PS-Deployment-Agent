@@ -50,7 +50,7 @@ sanitizing (exporting with full fidelity) and rehydrating (re-importing with ful
 in the workbook. This allows customer data to be ejected and sample/test data to be reimported, 
 in order to run E2E tests of all functions and commit that sanitized version of the workbook back to
 the master repo, ready for use on the next project. As more use cases are required, the number of sheets
-in the workbook will grow, but this is very much a work in progress. Please submit any bugs through VSTS
+in the workbook will grow, but this is very much a work in progress. Please submit any bugs through github issues and
 I'll get to them as soon as possible.
 
 ### Exportable Excel Features
